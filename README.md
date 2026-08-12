@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=6D4AFF&lines=MuleSoft+Developer+%7C+API+Integration;Building+APIs+with+MuleSoft+%26+DataWeave" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&color=6D4AFF&lines=MuleSoft+Developer+%7C+API+Integration;Building+APIs+with+MuleSoft+%26+DataWeave" alt="typing" />
 </p>
 
 ### Hey, I'm KKC! 👋
