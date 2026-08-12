@@ -35,4 +35,4 @@ const kkc = {
 <br clear="left">
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/mulekkc"></a></i></p>
+
